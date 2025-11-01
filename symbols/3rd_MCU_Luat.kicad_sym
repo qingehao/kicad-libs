@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "Air780EGHG"
+	(symbol "Air780EGH"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -57,7 +57,7 @@
 				)
 			)
 		)
-		(symbol "Air780EGHG_1_1"
+		(symbol "Air780EGH_1_1"
 			(rectangle
 				(start -24.13 26.67)
 				(end 24.13 -26.67)
@@ -934,7 +934,7 @@
 				)
 			)
 		)
-		(symbol "Air780EGHG_2_1"
+		(symbol "Air780EGH_2_1"
 			(rectangle
 				(start -17.78 19.05)
 				(end 17.78 -19.05)
@@ -1595,7 +1595,7 @@
 				)
 			)
 		)
-		(symbol "Air780EGHG_3_1"
+		(symbol "Air780EGH_3_1"
 			(rectangle
 				(start -13.97 13.97)
 				(end 13.97 -13.97)
