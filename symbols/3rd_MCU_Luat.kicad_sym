@@ -14,8 +14,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "Air780EGH"
+			(at 19.304 28.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -313,7 +313,7 @@
 						)
 					)
 				)
-				(number "97"
+				(number "98"
 					(effects
 						(font
 							(size 1.27 1.27)
