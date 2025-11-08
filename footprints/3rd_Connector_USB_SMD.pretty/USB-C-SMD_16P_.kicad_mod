@@ -523,4 +523,15 @@
 		(uuid "128e9932-9ed2-4c10-b64d-b1530a6b38b5")
 	)
 	(embedded_fonts no)
+	(model "${KICAD_3RD_LIBRARY_DIR}/3dmodels/3rd_Connector_USB_SMD.3dshapes/USB-TYPE-C-SMD_TYPE-C-16P-QTWT.step"
+		(offset
+			(xyz 0 1.3 1.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
